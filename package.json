@@ -1,7 +1,7 @@
 {
 "name": "usd",
 "version": "2.1.2",
-"description": "usd has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "usd has been designed to make things easier and fun while using site. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name usd",
